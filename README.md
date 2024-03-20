@@ -1,6 +1,6 @@
 # NOISELAB
 
-SvelteKit web DAW 
+ Stem separtation UI built with svelte backedn hosted on AWS lambda
 
 
 ## Developing
