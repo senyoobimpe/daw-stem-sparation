@@ -1,6 +1,6 @@
 # NOISELAB
 
- Stem separtation UI built with svelte backedn hosted on AWS lambda
+ Stem separtation UI built with SvelteKit backend hosted on AWS lambda
 
 
 ## Developing
