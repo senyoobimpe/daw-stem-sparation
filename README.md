@@ -2,6 +2,8 @@
 
  Stem separtation UI built with SvelteKit backend hosted on AWS lambda
 
+<img width="1440" alt="Screenshot 2024-03-19 at 11 18 05 PM" src="https://github.com/senyoobimpe/daw-stem-sparation/assets/115487469/7c265424-e8f5-4238-abdf-c8109b98b529">
+<img width="1432" alt="Screenshot 2024-03-19 at 11 17 38 PM" src="https://github.com/senyoobimpe/daw-stem-sparation/assets/115487469/1396fdb9-ca76-440a-b5f9-69d4cced950e">
 
 ## Developing
 
